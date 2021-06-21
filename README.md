@@ -4,7 +4,7 @@
 Computer Science student at [Universidade Tiradentes](https://portal.unit.br). Python developer with passion for videogames and Data Science. Fascinated by everything that's CS related. Proudly from Lagarto, Sergipe, Brazil 🇧🇷
 
 - 🔭 I’m currently studying **Computer Science** at Universidade Tirandetes
-- 🌱 I’m currently learning **Data Science** 
+- 🌱 I’m currently learning **Back-end Development**, **Elixir** 
 - ⚙️ Mastering: **python**,  **docker**,  **CI/CD**
 
 
