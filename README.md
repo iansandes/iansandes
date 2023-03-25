@@ -3,12 +3,11 @@
 
 Computer Scientist. Python developer with passion for videogames and Data Science. Fascinated by everything that's CS related. Proudly from Lagarto, Sergipe, Brazil 🇧🇷
 
-- 🔭 I’m currently studying **Computer Science** at Universidade Tirandetes
-- 🌱 I’m currently learning **Back-end Development**
-- ⚙️ Mastering: **python**,  **docker**,  **CI/CD**
+- 🌱 I’m currently learning **Back-end Development** and **DevOps**
+- ⚙️ Mastering: **python**,  **docker**,  **CI/CD**, **Automation**
 
 
-### 📬 Get in Touch
+### 📬 Get in Touch 
 - GitHub: [github.com/iansandes][github]
 - LinkedIn: [Ian Sandes][linkedin]
 - E-mail: ian.sandes@outlook.com
