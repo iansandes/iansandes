@@ -1,7 +1,7 @@
 # Hello, I'm Ian Sandes 👋
 
 
-Computer Scientist. Python developer with passion for videogames and Data Science. Fascinated by everything that's CS related. Proudly from Lagarto, Sergipe, Brazil 🇧🇷
+Computer Scientist. Python developer with passion for videogames and sports. Fascinated by everything that's CS related. Proudly from Lagarto, Sergipe, Brazil 🇧🇷
 
 - 🌱 I’m currently learning **Back-end Development** and **DevOps**
 - ⚙️ Mastering: **python**,  **docker**,  **CI/CD**, **Automation**
