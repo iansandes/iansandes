@@ -10,11 +10,11 @@ Computer Scientist. Python developer with passion for videogames and sports. Fas
 ### 📬 Get in Touch 
 - GitHub: [github.com/iansandes][github]
 - LinkedIn: [Ian Sandes][linkedin]
-- E-mail: ian.sandes@outlook.com
+- E-mail: iansandes15@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=iansandes&show_icons=true&hide_border=true)
 
-[linkedin]: https://www.linkedin.com/in/ian-sandes/
+[linkedin]: https://www.linkedin.com/in/iansandes/
 [github]: https://github.com/iansandes
